@@ -10,3 +10,12 @@ Et, @d! Distinctio velit @ccus@ntium quis l@bore @dipisci @ccus@mus f@cilis e@, 
 Hic quis bl@nditiis f@cilis consequ@tur ips@? Volupt@tum distinctio cumque l@borios@m nesciunt. Tempore consectetur distinctio pr@esentium eius inventore omnis incidunt commodi, sunt impedit qu@e enim consequ@tur porro modi h@rum, @rchitecto @liquid?
 Id officiis e@que s@piente quisqu@m it@que incidunt, nesciunt verit@tis n@tus @nimi @li@s. @ sequi f@cilis deserunt consectetur excepturi? Exercit@tionem consequuntur inventore ducimus odit, minus tenetur porro nemo temporibus volupt@s enim?
 E@que optio cumque l@ud@ntium corporis @ssumend@, doloribus ips@m qu@s vero porro quo s@piente non nisi ipsum volupt@tes, repudi@nd@e, nobis eveniet odit commodi rem dignissimos deserunt minus suscipit. @spern@tur, consequuntur! Nobis!
+
+Resolviendo  conflictos:
+![❌ Error ❌](./img/Captura1.JPG "New repository")
+
+Aceptando los cambios del repositorio remoto  
+![❌ Error ❌](./img/Captura2.JPG "New repository")
+
+Aceptando los cambios del repositorio local  , intercamvbiando @/a ...
+![❌ Error ❌](./img/Captura3.JPG "New repository")
